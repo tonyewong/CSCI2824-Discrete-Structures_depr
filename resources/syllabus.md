@@ -1,13 +1,11 @@
-# CSCI 2824: Discrete Structures, Fall 2017
+# CSCI 2824: Discrete Structures, Spring 2018
 
 
 ### Course Information 
 
-* **Section 001**: MWF 10-10:50am in HUMN 1B50 with Chris Ketelsen 
+* **Section 001**: MWF 9-9:50 am in GOLD A2B70 with Tony Wong
 
-* **Section 002**: MWF 9-9:50am in FLMG 155 with Tony Wong 
-
-* **Section 003**: MWF 11-11:50am in CLRE 207  with Tony Wong 
+* **Section 002**: MWF 11-11:50 am in HLMS 252 with Alex Kolla
 
 * **Prerequisites**: 
 	* C- or better in Calculus 1 
@@ -15,8 +13,8 @@
 	* ability (or willingness to learn) to program in Python 3 
 
 * **Office Hours**: 
-	* Chris: MWF 11am-12pm in ECOT 731 or by appointment 
-	* Tony: WTh 12:30-2pm in ECOT 623 or by appointment
+	* Tony: M/Th/F 10-11 am in ECOT 623, or by appointment
+	* Alex: TBA
 	* CAs: TBA
 	* Graders: TBA  
 
@@ -50,7 +48,7 @@ Roughly, we will cover the following topics (some of them may be skipped dependi
 * **Sets, Relations and Functions**: Basic properties. Paradoxes in naive set theory. Infinite sets. 
 * **Recursion**: Recursive functions and recursively defined structures.
 * **Combinatorics**: Counting, binomial theorem, counting with recursion.
-* **Discrete Probability**: Basic facts, Bayes Rule 
+* **Discrete Probability**: Basic facts, Bayes' Rule 
 * **Graphs**: Definitions and properties of graphs.
 * **Trees**: Definitions and properties of trees.
 * **Example Applications**: Artificial Intelligence (automated reasoning, game playing), Graphics (drawing fractals), Cryptography (RSA) and Networks (social network analysis).
@@ -59,34 +57,34 @@ Roughly, we will cover the following topics (some of them may be skipped dependi
 
 We will use [_Discrete Mathematics and Its Applications, 7th ed._](https://smile.amazon.com/Discrete-Mathematics-Its-Applications-Seventh/dp/0073383090/ref=sr_1_1?s=books&ie=UTF8&qid=1484628806&sr=1-1&keywords=rosen+discrete+math) by Kenneth H. Rosen.  
 
-We realize the book is pricey, but it's pretty well-written and includes lots of cool computer science applications.  Earlier additions are fine, but you'll be responsible for figuring out the section number map between editions for the daily reading. 
+We realize the book is pricey, but it's pretty well-written and includes lots of cool computer science applications.  Earlier/international editions are fine, but you'll be responsible for figuring out the section number map between editions for the daily reading. 
 
 ### Course Web Page 
 
-[https://piazza.com/colorado/fall2017/csci2824](https://piazza.com/colorado/fall2017/csci2824)
+[https://piazza.com/colorado/spring2018/csci2824](https://piazza.com/colorado/spring2018/csci2824)
 
-This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the grader, and the instructor. **Rather than emailing me questions, I request that you to post your questions on Piazza**.  If your question is of a private nature, Piazza allows you to send me private messages to the instructors.  If you have a question specifically for Tony or Chris, please be sure to address your message to us by name. It is your responsibility to check the web page on a regular basis. Here you will find detailed information such as news, homework assignments and solutions, and instructor office hours. 
+This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the grader, and the instructor. **Rather than emailing me questions, I request that you to post your questions on Piazza**.  If your question is of a private nature, Piazza allows you to send me private messages to the instructors.  If you have a question specifically for Tony or Alex, please be sure to address your message to us by name. It is your responsibility to check the web page on a regular basis. Here you will find detailed information such as news, homework assignments and solutions, and instructor office hours. 
 
 ### Coursework 
 
-**Weekly Homework**: Homework will be assigned weekly throughout the course.  There will be two types of homework assignments: online homework through Moodle which may include matching, multiple choice, numerical, or programming questions, and written homework which may include by-hand computations, puzzles, and proofs. You are expected to write up your written solutions neatly, with full explanations and justifications. You may discuss problems with your classmates, **but all work must be your own**.  See the **Collaboration Policy** below for more details. 
+**Weekly Homework**: Homework will be assigned weekly throughout the course.  There will be two types of homework assignments: online homework through Moodle which may include matching, multiple choice, numerical, or programming questions, and written homework which may include by-hand computations, puzzles, and proofs. You are expected to write up your written solutions neatly, with full explanations and justifications. You may discuss problems with your classmates, **but all work must be your own**.  See the **Collaboration Policy** below for more details. **Copying solutions from Chegg or other online "resources" constitutes Academic Dishonesty (that work is NOT your own).** 
 
 Homework is due by **Noon** on the listed due date. **Your two lowest homework scores will be dropped.**   Please be mindful of the due dates as late submissions will not be accepted.  We accept homework at the start of class or underneath our office doors by **Noon**.  We do **NOT** accept emailed homework under any circumstances.
 
-**Exams**: There will be a 90 minute evening midterm during the 8th week of the course and a **cumulative** final exam given during the university scheduled final examination time.  Note that due to university regulations, **final exams can only be rescheduled due to official university excused absences**.  Please plan your holiday travel accordingly.  
+**Exams**: There will be two 90-minute evening midterms during the 6th and 11th weeks of the course and a **cumulative** final exam given during the university-scheduled final examination time.  Note that due to university regulations, **final exams can only be rescheduled due to official university excused absences**.  Please plan your travel accordingly.  
 
 **You must obtain an average exam score of at least 50% in order to pass the course with a C- or better.**
 
-**Course Participation**: Occasionally we will solve a short (5-10 minutes) tutorial problem as a class which you will write up and hand in at the end of lecture.  Your course participation grade will be determined by 80% of the given tutorial problems (e.g. if we give 10 tutorial problems we will drop two of them.)  Dropped tutorial problems are to account for routine absences like minor illnesses and other unavoidable events.  You may not make up tutorial problems except in very extreme circumstances.  Attempts to subvert the integrity of participation assignments will be considered an Honor Code violation and will be met with measurable consequences. 
+**Course Participation**: Occasionally we will post a short exercise on Moodle to be done between the end of class and the next class meeting. For example, if we post the exercise on Monday after class, it will be due by 8 am on Wednesday morning. These exercises will build on examples and concepts reviewed in class. Thus, if you attend class, they will be relatively short and sweet (5-15 minutes expected). We will announce these exercises **in class** and post them on Moodle. If you miss class, it is your responsibility to check for participation exercise updates.
 
 ### Grade Determination 
 
 The overall grades will be based on a cumulative score computed from 
 
-* The weekly homework (40% of the grade)
-* The score from class participation (10% of the grade)
-* The midterm exam (20% of the grade)
-* The final exam (30% of the grade)
+* The weekly homework (30% of the grade)
+* The class participation exercises (10% of the grade)
+* Two midterm exams (20% of the grade each)
+* The final exam (20% of the grade)
 
 Unless adjustments are necessary, letter grades will be assigned using the standard grading scale: 
 
