@@ -56,5 +56,5 @@
 | 15     | 04.30        |                 | Structural Induction on Trees             |	            |                 | 
 |        | 05.02        |                 | Huffman Encoding                          |			        |	HW14 (written)  |
 |        | 05.04        |                 | **READING DAY - FINAL EXAM REVIEW**	      |			    |	          |
-| 16     | 05.05        |                 | **FINAL EXAM SECTION 001, 4:30-7 PM**     |			    |			      | 
-|        | 05.08        |                 | **FINAL EXAM SECTION 002, 1:30-4 PM**     |			    |			      | 
+| 16     | 05.05        | (Saturday)      | **FINAL EXAM SECTION 001, 4:30-7 PM**     |			    |			      | 
+|        | 05.08        | (Tuesday)       | **FINAL EXAM SECTION 002, 1:30-4 PM**     |			    |			      | 
