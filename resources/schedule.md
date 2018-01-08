@@ -20,18 +20,18 @@
 | 4      | 02.05        | 1.8             | Proof Methods and Strategy 	              |	            |                 | 
 |        | 02.07        | 2.1, 2.2        | Set Theory and Set Operations	 	          |             |                 | 	
 |        | 02.09        | 2.2, 2.3        | Set Operations and Functions      		    |   			    | HW03 (online) |
-| 5      | 02.12        | 2.3, 2.5        | Functions and Cardinality-Lite 	 		     |	            |                 | 
+| 5      | 02.12        | 2.3, 2.5        | Functions and Cardinality-Lite 	 		      |	            |                 | 
 |        | 02.14        | 2.4             | Sequences 						  		              |	            |                 | 
 |        | 02.16        | 3.1             | Algorithms 						  		              |			        | HW04 (written) |
 | 6      | 02.19        | 3.2, 3.3        | Complexity			                          |	            | Evening Review      | 
 |        | 02.21        | 3.3, 2.6        | Complexity and Matrix Operations          |	            | **EVENING MIDTERM** | 
 |        | 02.23        | 4.1, 4.2        | Divisibility and Modular Arithmetic		    |			        |                 |
-| 7      | 02.26        | 4.2             | Modular Exponentiation                    |	            |                 | 
+| 7      | 02.26        | 4.2             | Modular Exponentiation                    |	            | HW05 (online)   | 
 |        | 02.28        | 4.3             | Primes and GCD 							              |	            |                 | 
-|        | 03.02        | 4.4, 4.5        | Congruences and Applications              |			        | HW05 (online)   |
+|        | 03.02        | 4.4, 4.5        | Congruences and Applications              |			        | HW06 (written)  |
 | 8      | 03.05        |                 |                    |	            |                 | 
 |        | 03.07        | 4.4             | Systems of Congruences 					  |	            |                 | 
-|        | 03.09        | 4.6             | Cryptography                              |	            | HW06 (written)  | 
+|        | 03.09        | 4.6             | Cryptography                              |	            |   | 
 | 9      | 03.12        | 5.1             | Weak Induction                            |	            |                 | 
 |        | 03.14        | 5.2             | Strong Induction 						  	          |	            |                 | 
 |        | 03.16        | 5.3, 5.4        | Recursion 						              		  |			        | HW07 (online)   |
