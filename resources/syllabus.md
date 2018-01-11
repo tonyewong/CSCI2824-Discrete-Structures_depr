@@ -73,7 +73,7 @@ Homework is due by **Noon** on the listed due date. **Your two lowest homework s
 
 **Exams**: There will be two 90-minute evening midterms during the 6th and 11th weeks of the course and a **cumulative** final exam given during the university-scheduled final examination time.  Note that due to university regulations, **final exams can only be rescheduled due to official university excused absences**.  Please plan your travel accordingly.  
 
-**You must obtain an average exam score of at least 50% in order to pass the course with a C- or better.**
+**You must obtain an average exam score of at least 55% in order to pass the course with a C- or better.**
 
 **Course Participation**: Occasionally we will post a short exercise on Moodle to be done between the end of class and the next class meeting. For example, if we post the exercise on Monday after class, it will be due by 8 am on Wednesday morning. These exercises will build on examples and concepts reviewed in class. Thus, if you attend class, they will be relatively short and sweet (5-15 minutes expected). We will announce these exercises **in class** and post them on Moodle. If you miss class, it is your responsibility to check for participation exercise updates. **Your lowest two participation scores will be dropped**.
 
