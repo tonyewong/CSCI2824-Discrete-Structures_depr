@@ -75,14 +75,14 @@ Homework is due by **Noon** on the listed due date. **Your two lowest homework s
 
 **You must obtain an average exam score of at least 55% in order to pass the course with a C- or better.**
 
-**Course Participation**: Occasionally we will post a short exercise on Moodle to be done between the end of class and the next class meeting. For example, if we post the exercise on Monday after class, it will be due by 8 am on Wednesday morning. These exercises will build on examples and concepts reviewed in class. Thus, if you attend class, they will be relatively short and sweet (5-15 minutes expected). We will announce these exercises **in class** and post them on Moodle. If you miss class, it is your responsibility to check for participation exercise updates. **Your lowest two participation scores will be dropped**.
+**Quizlets**: Occasionally we will post a short exercise - a "quizlet" - on Moodle to be done between the end of class and the next class meeting. For example, if we post the quizlet on Monday after class, it will be due by 8 am on Wednesday morning. These exercises will build on examples and concepts reviewed in class. Thus, if you attend class, they will be relatively short and sweet (5-15 minutes expected). We will announce quizlets **in class**, then post them on Moodle and the course calendar. If you miss class, it is your responsibility to check for quizlet updates. **Your lowest two quizlet scores will be dropped**.
 
 ### Grade Determination 
 
 The overall grades will be based on a cumulative score computed from 
 
 * The weekly homework (30% of the grade)
-* The class participation exercises (10% of the grade)
+* The quizlets (10% of the grade)
 * Two midterm exams (20% of the grade each)
 * The final exam (20% of the grade)
 
