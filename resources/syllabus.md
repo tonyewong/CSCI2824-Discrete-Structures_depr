@@ -5,7 +5,7 @@
 
 * **Section 001**: MWF 9-9:50 am in GOLD A2B70 with Tony Wong
 
-* **Section 002**: MWF 11-11:50 am in HLMS 252 with Alex Kolla
+* **Section 002**: MWF 11-11:50 am in HLMS 252 with Alexandra Kolla
 
 * **Prerequisites**: 
 	* C- or better in Calculus 1 
