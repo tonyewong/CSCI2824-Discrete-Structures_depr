@@ -13,10 +13,9 @@
 	* ability (or willingness to learn) to program in Python 3 
 
 * **Office Hours**: 
-	* Tony: M/Th/F 10-11 am in ECOT 623, or by appointment
-	* Alex: TBA
-	* CAs: TBA
-	* Graders: TBA  
+	* Tony: M/Th/F 10-11 am in ECOT 623 (or by appointment)
+	* Alexandra: M/W 12:01-1:01 pm ECES 122 (or by appointment)
+	* CAs: In CSEL - https://goo.gl/7k5R7a
 
 ### Why Discrete Structures? 
 
@@ -63,7 +62,7 @@ We realize the book is pricey, but it's pretty well-written and includes lots of
 
 [https://piazza.com/colorado/spring2018/csci2824](https://piazza.com/colorado/spring2018/csci2824)
 
-This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the grader, and the instructor. **Rather than emailing me questions, I request that you to post your questions on Piazza**.  If your question is of a private nature, Piazza allows you to send me private messages to the instructors.  If you have a question specifically for Tony or Alex, please be sure to address your message to us by name. It is your responsibility to check the web page on a regular basis. Here you will find detailed information such as news, homework assignments and solutions, and instructor office hours. 
+This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the grader, and the instructor. **Rather than emailing me questions, I request that you to post your questions on Piazza**.  If your question is of a private nature, Piazza allows you to send me private messages to the instructors.  If you have a question specifically for Tony or Alexandra, please be sure to address your message to us by name. It is your responsibility to check the web page on a regular basis. Here you will find detailed information such as news, homework assignments and solutions, and instructor office hours. 
 
 ### Coursework 
 
