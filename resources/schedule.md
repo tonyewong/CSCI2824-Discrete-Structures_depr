@@ -10,7 +10,7 @@
 |:------:|:------------:| ----------------| ------------------------------------------|-------------|-----------------|
 | 1      | 01.15        |                 | **MLK DAY - NO CLASS**       |             |                 |	
 |        | 01.17        |                 | Discrete Intro. / Binary Arithmetic       |	[TW](https://goo.gl/ivcQuV)            |                 |	
-|        | 01.19        | 1.1             | Propositional Logic                       |	            |                 |	
+|        | 01.19        | 1.1             | Propositional Logic                       |	[TW](https://drive.google.com/open?id=1g_Mjpb3R6oHKRu7oyIHv_vKMBPLflQkG)            |                 |	
 | 2      | 01.22        | 1.1, 1.2        | Propositional Logic and Applications      |			        |	      	     	  | 
 |        | 01.24        | 1.3, [Norvig](http://norvig.com/sudoku.html) | Logical Equivalences |	    |                 |	
 |        | 01.26        | 1.4             | Predicates and Quantifiers                |			        | HW01 (online)   |
