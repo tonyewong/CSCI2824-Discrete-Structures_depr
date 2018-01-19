@@ -13,7 +13,7 @@
 |        | 01.19        | 1.1             | Propositional Logic                       |	[TW](https://drive.google.com/open?id=1g_Mjpb3R6oHKRu7oyIHv_vKMBPLflQkG)            |                 |	
 | 2      | 01.22        | 1.1, 1.2        | Propositional Logic and Applications      |			        |	      	     	  | 
 |        | 01.24        | 1.3, [Norvig](http://norvig.com/sudoku.html) | Logical Equivalences |	    |                 |	
-|        | 01.26        | 1.4             | Predicates and Quantifiers                |			        | HW01 (online)   |
+|        | 01.26        | 1.4             | Predicates and Quantifiers                |			        | [HW01 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19437)   |
 | 3      | 01.29        | 1.5             | Nested Quantifiers			                  |	            |                 | 
 |        | 01.31        | 1.6             | Rules of Inference		                    |	            |                 | 
 |        | 02.02        | 1.6             | Rules of Inference, continue              |			        | HW02 (written)  |
