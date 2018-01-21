@@ -16,7 +16,7 @@
 |        | 01.26        | 1.4             | Predicates and Quantifiers                |			        | [HW01 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19437)   |
 | 3      | 01.29        | 1.5             | Nested Quantifiers			                  |	            |                 | 
 |        | 01.31        | 1.6             | Rules of Inference		                    |	            |                 | 
-|        | 02.02        | 1.6             | Rules of Inference, continue              |			        | HW02 (written)  |
+|        | 02.02        | 1.6             | Rules of Inference, continued             |			        | HW02 (written)  |
 | 4      | 02.05        | 1.7             | Introduction to Proofs 	                  |	            |                 | 
 |        | 02.07        | 1.8             | Proof Methods and Strategy 	              |             |                 | 	
 |        | 02.09        | 2.1, 2.2        | Set Theory and Set Operations	 	          |   			    | HW03 (online)   |
