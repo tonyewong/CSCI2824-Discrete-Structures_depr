@@ -11,7 +11,7 @@
 | 1      | 01.15        |                 | **MLK DAY - NO CLASS**       |             |                 |	
 |        | 01.17        |                 | Discrete Intro. / Binary Arithmetic       |	[TW](https://drive.google.com/open?id=1i8A7sinKdxT1fBWIxM-hg7WioWAnN6r0)            |                 |	
 |        | 01.19        | 1.1             | Propositional Logic                       |	[TW](https://drive.google.com/open?id=1g_Mjpb3R6oHKRu7oyIHv_vKMBPLflQkG)            |                 |	
-| 2      | 01.22        | 1.1, 1.2        | Propositional Logic and Applications      |			        |	      	     	  | 
+| 2      | 01.22        | 1.1, 1.2        | Propositional Logic and Applications      |	[TW](https://drive.google.com/open?id=1I6DocjLiQEQIgbCrsj5fj3R8Tmo3hY-M)		        |	      	     	  | 
 |        | 01.24        | 1.3, [Norvig](http://norvig.com/sudoku.html) | Logical Equivalences |	    |                 |	
 |        | 01.26        | 1.4             | Predicates and Quantifiers                |			        | [HW01 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19437)   |
 | 3      | 01.29        | 1.5             | Nested Quantifiers			                  |	            |                 | 
