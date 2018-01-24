@@ -14,7 +14,7 @@
 
 * **Office Hours**: 
 	* Tony: M/Th/F 10-11 am in ECOT 623 (or by appointment)
-	* Alexandra: M/W 12:01-1:01 pm ECES 122 (or by appointment)
+	* Alexandra: M/W 13:15-14:15 pm ECES 122 (or by appointment)
 	* CAs: In CSEL - https://goo.gl/7k5R7a
 
 ### Why Discrete Structures? 
