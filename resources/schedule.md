@@ -12,7 +12,7 @@
 |        | 01.17        |                 | Discrete Intro. / Binary Arithmetic       |	[TW](https://drive.google.com/open?id=1i8A7sinKdxT1fBWIxM-hg7WioWAnN6r0)            |                 |	
 |        | 01.19        | 1.1             | Propositional Logic                       |	[TW](https://drive.google.com/open?id=1lgZpSCjV2lEB2_7yQOqPJmHjMS3Ocig4)            |                 |	
 | 2      | 01.22        | 1.1, 1.2        | Propositional Logic and Applications      |	[TW](https://drive.google.com/open?id=1fQYjJIFzUCAm2HfwQ1BwE965j9-YLrZi)		        |	      	     	  | 
-|        | 01.24        | 1.3, [Norvig](http://norvig.com/sudoku.html) | Logical Equivalences |	    | [Quizlet01](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=21428)            |	
+|        | 01.24        | 1.3, [Norvig](http://norvig.com/sudoku.html) | Logical Equivalences |	[TW](https://drive.google.com/open?id=1Dh2IhUE0DCRBcnDGhilZNc6ZcosYUw18)    | [Quizlet01](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=21428)            |	
 |        | 01.26        | 1.4             | Predicates and Quantifiers                |			        | [HW01 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19437)   |
 | 3      | 01.29        | 1.5             | Nested Quantifiers			                  |	            |                 | 
 |        | 01.31        | 1.6             | Rules of Inference		                    |	            |                 | 
