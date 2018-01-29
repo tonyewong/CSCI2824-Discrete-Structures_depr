@@ -14,7 +14,7 @@
 | 2      | 01.22        | 1.1, 1.2        | Propositional Logic and Applications      |	[TW](https://drive.google.com/open?id=1fQYjJIFzUCAm2HfwQ1BwE965j9-YLrZi)		        |	      	     	  | 
 |        | 01.24        | 1.3, [Norvig](http://norvig.com/sudoku.html) | Logical Equivalences |	[TW](https://drive.google.com/open?id=1OrDshJjFyktHIQehsdoXryRpdj_Qyvox)    | [Quizlet01](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=21428)            |	
 |        | 01.26        | 1.4             | Predicates and Quantifiers                |	[TW](https://drive.google.com/open?id=1hjgetcWlb3II3vOwblN61vsXncdT2a22)		        | [HW01 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19437)   |
-| 3      | 01.29        | 1.5             | Nested Quantifiers			                  |	[TW](https://drive.google.com/open?id=1nxv864SrUvzpl702qoIMRK9uQRDvNtTf)/[AK](https://drive.google.com/drive/u/0/my-drive)            |                 | 
+| 3      | 01.29        | 1.5             | Nested Quantifiers			                  |	[TW](https://drive.google.com/open?id=1nxv864SrUvzpl702qoIMRK9uQRDvNtTf)/[AK]()            |                 | 
 |        | 01.31        | 1.6             | Rules of Inference		                    |	            | [Quizlet02](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=21607)                | 
 |        | 02.02        | 1.6             | Rules of Inference, continued             |			        | [HW02 (written)](https://piazza.com/class_profile/get_resource/jc1c410ll63nl/jcvc7lhp7fv1qb)  |
 | 4      | 02.05        | 1.7             | Introduction to Proofs 	                  |	            |                 | 
