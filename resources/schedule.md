@@ -19,7 +19,7 @@
 |        | 02.02        | 1.6             | Rules of Inference, continued             |	[TW](https://drive.google.com/open?id=1zQ1_A0g3-R0zDECjGGpKilWRXWZkRHnE)		        | [HW02 (written)](https://piazza.com/class_profile/get_resource/jc1c410ll63nl/jcvc7lhp7fv1qb)  |
 | 4      | 02.05        | 1.7             | Introduction to Proofs 	                  |	            |                 | 
 |        | 02.07        | 1.8             | Proof Methods and Strategy 	              |             |                 | 	
-|        | 02.09        | 2.1, 2.2        | Set Theory and Set Operations	 	          |   			    | HW03 (online)   |
+|        | 02.09        | 2.1, 2.2        | Set Theory and Set Operations	 	          |   			    | [HW03 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19438)   |
 | 5      | 02.12        | 2.2, 2.3        | Set Operations and Functions      		    |	            |                 | 
 |        | 02.14        | 2.3, 2.5        | Functions and Cardinality-Lite 	 		      |	            |                 | 
 |        | 02.16        | 2.4             | Sequences 						  		              |			        | HW04 (written)  |
