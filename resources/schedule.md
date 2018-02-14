@@ -22,7 +22,7 @@
 |        | 02.09        | 2.1, 2.2        | Set Theory and Set Operations	 	          | [TW](https://drive.google.com/open?id=134kpyxSmNqdZ5nXy4dn97BChh5lcILvR)/[AK](https://drive.google.com/file/d/1QQE17kUF4bcuKQK3FFFTluXuQKy1CYxZ/view?usp=sharing)  			    | [HW03 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19438)   |
 | 5      | 02.12        | 2.2, 2.3        | Set Operations and Functions      		    |	[TW](https://drive.google.com/open?id=1_jsndlCHEHOpuhshqHF1uuSqhv8z8ljx)            | [Quizlet04](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=21852)                | 
 |        | 02.14        | 2.3, 2.5        | Functions and Cardinality-Lite 	 		      |	[TW](https://drive.google.com/open?id=1QFgicBqXcjU5kaDxas4DLBDedyRlwYP4)            |                 | 
-|        | 02.16        | 2.4             | Sequences 						  		              |			        | [HW04 (written)](https://piazza.com/class_profile/get_resource/jc1c410ll63nl/jdg3fxcww5915p)  |
+|        | 02.16        | 2.4             | Sequences 						  		              |			        | [HW04 (written)](https://piazza.com/class_profile/get_resource/jc1c410ll63nl/jdg3fxcww5915p), [Quizlet05](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=21955)  |
 | 6      | 02.19        | 3.1             | Algorithms 						  		              |	            | Evening Review; [All Moodle](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19433)      | 
 |        | 02.21        | 3.2, 3.3        | Complexity			                          |	            | **EVENING MIDTERM** | 
 |        | 02.23        | 3.3, 2.6        | Complexity and Matrix Operations          |			        | HW05 (online)   |
