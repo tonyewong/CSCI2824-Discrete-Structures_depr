@@ -25,7 +25,7 @@
 |        | 02.16        | 2.4             | Sequences 						  		              |			        | [HW04 (written)](https://piazza.com/class_profile/get_resource/jc1c410ll63nl/jdg3fxcww5915p), [Quizlet05](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=21955)  |
 | 6      | 02.19        | 3.1             | Algorithms 						  		              |	            | Evening Review; [All Moodle](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19433)      | 
 |        | 02.21        | 3.2, 3.3        | Complexity			                          |	            | **EVENING MIDTERM** | 
-|        | 02.23        | 3.3, 2.6        | Complexity and Matrix Operations          |			        | HW05 (online)   |
+|        | 02.23        | 3.3, 2.6        | Complexity and Matrix Operations          |			        | [HW05 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19439)   |
 | 7      | 02.26        | 4.1, 4.2        | Divisibility and Modular Arithmetic		    |	            |                 | 
 |        | 02.28        | 4.2             | Modular Exponentiation                    |	            |                 | 
 |        | 03.02        | 4.3             | Primes and GCD 							              |			        | HW06 (written)  |
