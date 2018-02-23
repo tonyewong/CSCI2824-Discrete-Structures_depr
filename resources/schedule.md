@@ -28,7 +28,7 @@
 |        | 02.23        | 3.3, 2.6        | Complexity and Matrix Operations          |	[TW](https://drive.google.com/open?id=1SP4panXwoblB99ztfNsCmyQrIICcV8gm)/[AK](https://drive.google.com/open?id=1cHtd5eCOiOldnMKcEaSOyTYlDm8CB2Yt)		        | [HW05 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19439)   |
 | 7      | 02.26        | 4.1, 4.2        | Divisibility and Modular Arithmetic		    |	            |                 | 
 |        | 02.28        | 4.2             | Modular Exponentiation                    |	            |                 | 
-|        | 03.02        | 4.3             | Primes and GCD 							              |			        | [HW06 (written)](https://piazza.com/class_profile/get_resource/jc1c410ll63nl/je08s4cth9id5)  |
+|        | 03.02        | 4.3             | Primes and GCD 							              |			        | [HW06 (written)](https://piazza.com/class_profile/get_resource/jc1c410ll63nl/je0fexnbbdf398)  |
 | 8      | 03.05        | 4.4, 4.5        | Congruences and Applications              |	            |                 | 
 |        | 03.07        | 4.4             | Systems of Congruences 				        	  |	            |                 | 
 |        | 03.09        | 4.6             | Cryptography                              |	            | HW07 (online)   | 
