@@ -27,7 +27,7 @@
 |        | 02.21        | 3.2, 3.3        | Complexity			                          |	[TW](https://drive.google.com/open?id=1yu8xNf6joOgmMIkHDskw6BFYycUjSsCt)/[AK](https://drive.google.com/open?id=1dBo-Gmn8Ra7ckX5F-l-0ZHuOPmYj0Oko)            | **EVENING MIDTERM** | 
 |        | 02.23        | 3.3, 2.6        | Complexity and Matrix Operations          |	[TW](https://drive.google.com/open?id=1SP4panXwoblB99ztfNsCmyQrIICcV8gm)/[AK](https://drive.google.com/open?id=1Pozqc6GuTKwN9KgBMHwuhJ9FVqgxVEUL)		        | [HW05 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19439)   |
 | 7      | 02.26        | 4.1, 4.2        | Divisibility and Modular Arithmetic		    |	[TW](https://drive.google.com/open?id=1xgmuvnVj7DpyFNpqJslH9811qzbEMtCz)/[AK](https://drive.google.com/open?id=1CoxLT8bLnIvASoKsiMOTgN9Eoh1rH6KQ)            |                 | 
-|        | 02.28        | 4.2             | Modular Exponentiation                    |	            |                 | 
+|        | 02.28        | 4.2             | Modular Exponentiation   [AK](https://drive.google.com/open?id=1CoxLT8bLnIvASoKsiMOTgN9Eoh1rH6KQ)                 |	            |                 | 
 |        | 03.02        | 4.3             | Primes and GCD 							              |			        | [HW06 (written)](https://piazza.com/class_profile/get_resource/jc1c410ll63nl/je0fexnbbdf398)  |
 | 8      | 03.05        | 4.4, 4.5        | Congruences and Applications              |	            |                 | 
 |        | 03.07        | 4.4             | Systems of Congruences 				        	  |	            |                 | 
