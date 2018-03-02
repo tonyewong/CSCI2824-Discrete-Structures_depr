@@ -29,7 +29,7 @@
 | 7      | 02.26        | 4.1, 4.2        | Divisibility and Modular Arithmetic		    |	[TW](https://drive.google.com/open?id=1xgmuvnVj7DpyFNpqJslH9811qzbEMtCz)/[AK](https://drive.google.com/open?id=1CoxLT8bLnIvASoKsiMOTgN9Eoh1rH6KQ)            |                 | 
 |        | 02.28        | 4.2             | Modular Exponentiation                 |	   [TW](https://drive.google.com/open?id=1YbP1NgWpxcr5YdvAsPiNP0P2G77UrJnW)/[AK](https://drive.google.com/open?id=1CoxLT8bLnIvASoKsiMOTgN9Eoh1rH6KQ)            |                 | 
 |        | 03.02        | 4.3             | Primes and GCD 							              |	[TW](https://drive.google.com/open?id=13UiyDU0BJaIZua_44uo920EhPRUnApUR)		        | [HW06 (written)](https://piazza.com/class_profile/get_resource/jc1c410ll63nl/je0fexnbbdf398)  |
-| 8      | 03.05        | 4.4, 4.5        | Congruences and Applications              |	            |                 | 
+| 8      | 03.05        | 4.4, 4.5        | Congruences and Applications              |	            | [Quizlet06](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=22344)                | 
 |        | 03.07        | 4.4             | Systems of Congruences 				        	  |	            |                 | 
 |        | 03.09        | 4.6             | Cryptography                              |	            | HW07 (online)   | 
 | 9      | 03.12        | 5.1             | Weak Induction                            |	            |                 | 
