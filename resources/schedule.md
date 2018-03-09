@@ -34,7 +34,7 @@
 |        | 03.09        | 4.6             | Cryptography                              |	[TW](https://drive.google.com/open?id=1MJMGctTApW0EWOPBluEf2y3vCJVrIIYy)            | [HW07 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19440)   | 
 | 9      | 03.12        | 5.1             | Weak Induction                            |	            |                 | 
 |        | 03.14        | 5.2             | Strong Induction 						  	          |	            |                 | 
-|        | 03.16        | 5.3, 5.4        | Recursion 						              		  |			        | HW08 (written)  |
+|        | 03.16        | 5.3, 5.4        | Recursion 						              		  |			        | [HW08 (written)](https://piazza.com/class_profile/get_resource/jc1c410ll63nl/jejww7x16c01zn)  |
 | 10     | 03.19        | 6.1             | Counting  		                            |	            |                 | 
 |        | 03.21        | 6.2, 6.3        | The PHP + Perms and Combos                |	            |                 | 
 |        | 03.23        | 6.4, 6.5  	    | Perms and Combos + Binomial Theorem       |		     	    | HW09 (online)   |
