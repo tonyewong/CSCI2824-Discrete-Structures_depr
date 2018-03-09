@@ -32,7 +32,7 @@
 | 8      | 03.05        | 4.4, 4.5        | Congruences and Applications              |	[TW](https://drive.google.com/open?id=1Ly8rajFgmgD6ZDvU8AoHTfKVtYmj6Mul)/[AK](https://drive.google.com/open?id=10Dmh2Wt4zQ7j0L8ApE9gpBJQsdDtf9_M)            | [Quizlet06](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=22344)                | 
 |        | 03.07        | 4.4             | Systems of Congruences 				        	  |	[TW](https://drive.google.com/open?id=1qKL6f6MxagmreTpm6z9JyyqApv_HaQ6S)/[AK](https://drive.google.com/open?id=11jDX8RPMDlxlBYcw_rwcTx3VOWUe_hRK)            |                 | 
 |        | 03.09        | 4.6             | Cryptography                              |	[TW](https://drive.google.com/open?id=1MJMGctTApW0EWOPBluEf2y3vCJVrIIYy)            | [HW07 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19440)   | 
-| 9      | 03.12        | 5.1             | Weak Induction                            |	            |                 | 
+| 9      | 03.12        | 5.1             | Weak Induction                            |	            | [Quizlet07](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=22505)                | 
 |        | 03.14        | 5.2             | Strong Induction 						  	          |	            |                 | 
 |        | 03.16        | 5.3, 5.4        | Recursion 						              		  |			        | [HW08 (written)](https://piazza.com/class_profile/get_resource/jc1c410ll63nl/jejww7x16c01zn)  |
 | 10     | 03.19        | 6.1             | Counting  		                            |	            |                 | 
