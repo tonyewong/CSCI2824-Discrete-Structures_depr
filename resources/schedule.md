@@ -33,7 +33,7 @@
 |        | 03.07        | 4.4             | Systems of Congruences 				        	  |	[TW](https://drive.google.com/open?id=10BJZ0dCnGLpzUiZ-uQDJSogvkUit8heh)/[AK](https://drive.google.com/open?id=11jDX8RPMDlxlBYcw_rwcTx3VOWUe_hRK)            |                 | 
 |        | 03.09        | 4.6             | Cryptography                              |	[TW](https://drive.google.com/open?id=1MJMGctTApW0EWOPBluEf2y3vCJVrIIYy)/[AK](https://drive.google.com/open?id=1YWgqqANi5MpLuvmRTMYEbKgYL5zXmLmG)            | [HW07 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19440)   | 
 | 9      | 03.12        | 5.1             | Weak Induction                            |	[TW](https://drive.google.com/open?id=1-fzNFOwPG7TY1BKwPddTWA6_EmxrDFzs)/[AK](https://drive.google.com/open?id=1Z8Nf7c41XtK3e8q1QZWZ0nKw27OLrUTI)            | [Quizlet07](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=22505)                | 
-|        | 03.14        | 5.2             | Strong Induction 						  	          |	            |                 | 
+|        | 03.14        | 5.2             | Strong Induction 						  	          |	[TW](https://drive.google.com/open?id=1o5sKs5xyarMe_PS8-IZuwCig9Ywz6-cn)            |                 | 
 |        | 03.16        | 5.3, 5.4        | Recursion 						              		  |			        | [HW08 (written)](https://piazza.com/class_profile/get_resource/jc1c410ll63nl/jek7u9pwv663jq)  |
 | 10     | 03.19        | 6.1             | Counting  		                            |	            |                 | 
 |        | 03.21        | 6.2, 6.3        | The PHP + Perms and Combos                |	            |                 | 
