@@ -37,24 +37,24 @@
 |        | 03.16        | 5.3, 5.4        | Recursion 						              		  |			        | [HW08 (written)](https://piazza.com/class_profile/get_resource/jc1c410ll63nl/jek7u9pwv663jq)  |
 | 10     | 03.19        | 6.1             | Counting  		                            |	            |                 | 
 |        | 03.21        | 6.2, 6.3        | The PHP + Perms and Combos                |	            |                 | 
-|        | 03.23        | 6.4, 6.5  	    | Perms and Combos + Binomial Theorem       |		     	    | HW09 (online)   |
+|        | 03.23        | 6.4, 6.5  	    | Perms and Combos + Binomial Theorem       |		     	    | HW09 (written)   |
 |        | 03.26        |                 | **SPRING BREAK - NO CLASS**               |	            |                 | 
 |        | 03.28        |                 | **SPRING BREAK - NO CLASS**               |	            |                 | 
 |        | 03.30        |                 | **SPRING BREAK - NO CLASS**               |			        |                 |
 | 11     | 04.02        | 7.1             | Basic Probability                         |	            | Evening Review      | 
 |        | 04.04        | 7.2             | Basic Probability Theory	                |	            | **EVENING MIDTERM** | 
-|        | 04.06        | 7.3             | Bayes' Theorem              		          |			        | HW10 (written)  |
+|        | 04.06        | 7.3             | Bayes' Theorem              		          |			        | HW10 (online)  |
 | 12     | 04.09        | 7.3             | Applications of Bayes' Theorem            |			        |	                | 
 |        | 04.11        | 8.1             | Recurrences and Dynamic Programming       |			        |			            | 
-|        | 04.13        | 8.2, 8.3        | Solving Linear Recurrences                |			        |	HW11 (online)   | 
+|        | 04.13        | 8.2, 8.3        | Solving Linear Recurrences                |			        |	HW11 (written)   | 
 | 13     | 04.16        | 8.2, 8.3        | Solving Recurrences, continued    			  |	            |                 | 
 |        | 04.18        | 9.1, 9.2        | Basic Relations and Properties            |	            |                 | 
-|        | 04.20        | 9.5, 10.1       | Equivalence Relations / Basic Graphs      |			        | HW12 (written)  |
+|        | 04.20        | 9.5, 10.1       | Equivalence Relations / Basic Graphs      |			        | HW12 (online)  |
 | 14     | 04.23        | 10.2, 10.4, 10.5| Graph Theory and Eulerian Tours           |	            |                 | 
 |        | 04.25        | 10.8            | Graph Coloring and Scheduling Problems    |	            |                 | 
-|        | 04.27        | 11.1, 11.2      | Basic Trees                               |	    		    | HW13 (online)   |
+|        | 04.27        | 11.1, 11.2      | Basic Trees                               |	    		    | HW13 (writen)   |
 | 15     | 04.30        |                 | Structural Induction on Trees             |	            |                 | 
-|        | 05.02        |                 | Huffman Encoding                          |			        |	HW14 (written)  |
+|        | 05.02        |                 | Huffman Encoding                          |			        |	HW14 (online)  |
 |        | 05.04        |                 | **READING DAY - FINAL EXAM REVIEW**	      |			    |	          |
 | 16     | 05.05        | (Saturday)      | **FINAL EXAM SECTION 001, 4:30-7 PM**     |			    |			      | 
 |        | 05.08        | (Tuesday)       | **FINAL EXAM SECTION 002, 1:30-4 PM**     |			    |			      | 
