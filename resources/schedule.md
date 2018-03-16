@@ -35,7 +35,7 @@
 | 9      | 03.12        | 5.1             | Weak Induction                            |	[TW](https://drive.google.com/open?id=1-BHc0wOkr8n19TnCS46YWKfpbnCVx3wH)/[AK](https://drive.google.com/open?id=1Z8Nf7c41XtK3e8q1QZWZ0nKw27OLrUTI)            | [Quizlet07](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=22505)                | 
 |        | 03.14        | 5.2             | Strong Induction 						  	          |	[TW](https://drive.google.com/open?id=1o5sKs5xyarMe_PS8-IZuwCig9Ywz6-cn)            |                 | 
 |        | 03.16        | 5.3, 5.4        | Recursion 						              		  |	[TW](https://drive.google.com/open?id=1edfrynYkOWurydeLNVVCKLu2I6209pu-)		        | [HW08 (written)](https://piazza.com/class_profile/get_resource/jc1c410ll63nl/jek7u9pwv663jq)  |
-| 10     | 03.19        | 6.1             | Counting  		                            |	            |                 | 
+| 10     | 03.19        | 6.1             | Counting  		                            |	            | [Quizlet08](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=22615)                | 
 |        | 03.21        | 6.2, 6.3        | The PHP + Perms and Combos                |	            |                 | 
 |        | 03.23        | 6.4, 6.5  	    | Perms and Combos + Binomial Theorem       |		     	    | HW09 (written)   |
 |        | 03.26        |                 | **SPRING BREAK - NO CLASS**               |	            |                 | 
