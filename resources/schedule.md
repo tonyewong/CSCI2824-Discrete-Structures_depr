@@ -37,7 +37,7 @@
 |        | 03.16        | 5.3, 5.4        | Recursion 						              		  |	[TW](https://drive.google.com/open?id=1edfrynYkOWurydeLNVVCKLu2I6209pu-)		        | [HW08 (written)](https://piazza.com/class_profile/get_resource/jc1c410ll63nl/jek7u9pwv663jq)  |
 | 10     | 03.19        | 6.1             | Counting  		                            |	            | [Quizlet08](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=22615)                | 
 |        | 03.21        | 6.2, 6.3        | The PHP + Perms and Combos                |	            |                 | 
-|        | 03.23        | 6.4, 6.5  	    | Perms and Combos + Binomial Theorem       |		     	    | [HW09 (written)](https://piazza.com/class_profile/get_resource/jc1c410ll63nl/jeu6k0h2d5u78a)   |
+|        | 03.23        | 6.4, 6.5  	    | Perms and Combos + Binomial Theorem       |		     	    | [HW09 (written)](https://piazza.com/class_profile/get_resource/jc1c410ll63nl/jeu9bt2pehfr)   |
 |        | 03.26        |                 | **SPRING BREAK - NO CLASS**               |	            |                 | 
 |        | 03.28        |                 | **SPRING BREAK - NO CLASS**               |	            |                 | 
 |        | 03.30        |                 | **SPRING BREAK - NO CLASS**               |			        |                 |
