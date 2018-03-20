@@ -36,7 +36,7 @@
 |        | 03.14        | 5.2             | Strong Induction 						  	          |	[TW](https://drive.google.com/open?id=1IgRZ7zXtACyfUudo0_dicUtiCkc4odh_)/[AK](https://drive.google.com/open?id=1wfvzn58zhTxQ404AAa43oFV8jhBympIh)           |                 | 
 |        | 03.16        | 5.3, 5.4        | Recursion 						              		  |	[TW](https://drive.google.com/open?id=1edfrynYkOWurydeLNVVCKLu2I6209pu-)/[AK](https://drive.google.com/open?id=1-1Lz1qZqKVmrb88dUPt0DFbuoCMT4sUM)		        | [HW08 (written)](https://piazza.com/class_profile/get_resource/jc1c410ll63nl/jek7u9pwv663jq)  |
 | 10     | 03.19        | 6.1             | Counting  		                            |	[TW](https://drive.google.com/open?id=13HJmO7gHSBn0YoPS0qiuJrFZ3znOBIg0)/[AK](https://drive.google.com/open?id=1-1Lz1qZqKVmrb88dUPt0DFbuoCMT4sUM)            | [Quizlet08](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=22615)                | 
-|        | 03.21        | 6.2, 6.3        | The PHP + Perms and Combos                |	            |                 | 
+|        | 03.21        | 6.2, 6.3        | The PHP + Perms and Combos                |	[TW](https://drive.google.com/open?id=1N-FaDDssNnNOBk2bnIiYWnlqCVuELAb0)            |                 | 
 |        | 03.23        | 6.4, 6.5  	    | Perms and Combos + Binomial Theorem       |		     	    | [HW09 (written)](https://piazza.com/class_profile/get_resource/jc1c410ll63nl/jeu9bt2pehfr)   |
 |        | 03.26        |                 | **SPRING BREAK - NO CLASS**               |	            |                 | 
 |        | 03.28        |                 | **SPRING BREAK - NO CLASS**               |	            |                 | 
