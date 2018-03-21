@@ -43,7 +43,7 @@
 |        | 03.30        |                 | **SPRING BREAK - NO CLASS**               |			        |                 |
 | 11     | 04.02        | 7.1             | Basic Probability                         |	            | Evening Review, [All Moodle](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19434)      | 
 |        | 04.04        | 7.2             | Basic Probability Theory	                |	            | **EVENING MIDTERM** | 
-|        | 04.06        | 7.3             | Bayes' Theorem              		          |			        | HW10 (online)  |
+|        | 04.06        | 7.3             | Bayes' Theorem              		          |			        | [HW10 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19441)  |
 | 12     | 04.09        | 7.3             | Applications of Bayes' Theorem            |			        |	                | 
 |        | 04.11        | 8.1             | Recurrences and Dynamic Programming       |			        |			            | 
 |        | 04.13        | 8.2, 8.3        | Solving Linear Recurrences                |			        |	HW11 (written)   | 
