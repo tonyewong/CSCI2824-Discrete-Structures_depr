@@ -44,7 +44,7 @@
 | 11     | 04.02        | 7.1             | Basic Probability                         |	[TW](https://drive.google.com/open?id=1xF579fIJcb9ZCRumBsV6cZpRn1gdZNMA)/[AK](https://drive.google.com/open?id=15DO5eovabyJhOyi615qJRtWQlUndpBHM)            | [Evening Review](https://drive.google.com/open?id=1UVcyvbpV91vnyfQXKeOCBDYuhAYo1Ui-), [All Moodle](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19434)      | 
 |        | 04.04        | 7.2             | Basic Probability Theory	                |	[TW](https://drive.google.com/open?id=12DvYa9Kv_GY1p_57yQzLKlhhafPEj9Ph)            | **EVENING MIDTERM** | 
 |        | 04.06        | 7.3             | Bayes' Theorem              		          |			        | [HW10 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19441)  |
-| 12     | 04.09        | 7.3             | Applications of Bayes' Theorem            |			        |	                | 
+| 12     | 04.09        | 7.3             | Applications of Bayes' Theorem            |			        |	[Quizlet09](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=22619)                | 
 |        | 04.11        | 8.1             | Recurrences and Dynamic Programming       |			        |			            | 
 |        | 04.13        | 8.2, 8.3        | Solving Linear Recurrences                |			        |	HW11 (written)   | 
 | 13     | 04.16        | 8.2, 8.3        | Solving Recurrences, continued    			  |	            |                 | 
