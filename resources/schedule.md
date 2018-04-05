@@ -41,9 +41,9 @@
 |        | 03.26        |                 | **SPRING BREAK - NO CLASS**               |	            |                 | 
 |        | 03.28        |                 | **SPRING BREAK - NO CLASS**               |	            |                 | 
 |        | 03.30        |                 | **SPRING BREAK - NO CLASS**               |			        |                 |
-| 11     | 04.02        | 7.1             | Basic Probability                         |	[TW](https://drive.google.com/open?id=1xF579fIJcb9ZCRumBsV6cZpRn1gdZNMA)/[AK](https://drive.google.com/open?id=15DO5eovabyJhOyi615qJRtWQlUndpBHM)            | [Evening Review](https://drive.google.com/open?id=1UVcyvbpV91vnyfQXKeOCBDYuhAYo1Ui-), [All Moodle](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19434)      | 
-|        | 04.04        | 7.2             | Basic Probability Theory	                |	[TW](https://drive.google.com/open?id=12DvYa9Kv_GY1p_57yQzLKlhhafPEj9Ph)            | **EVENING MIDTERM** | 
-|        | 04.06        | 7.3             | Bayes' Theorem              		          |			        | [HW10 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19441)  |
+| 11     | 04.02        | 7.1             | Basic Probability                         |	[TW](https://drive.google.com/open?id=1xF579fIJcb9ZCRumBsV6cZpRn1gdZNMA)/[AK](https://drive.google.com/open?id=1g-uRbmOQ494RpOmx-11n7UiM6qUBpF4R)            | [Evening Review](https://drive.google.com/open?id=1UVcyvbpV91vnyfQXKeOCBDYuhAYo1Ui-), [All Moodle](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19434)      | 
+|        | 04.04        | 7.2             | Basic Probability Theory	                |	[TW](https://drive.google.com/open?id=12DvYa9Kv_GY1p_57yQzLKlhhafPEj9Ph)/[AK](https://drive.google.com/open?id=1qxX0dC3J09uvuNl3T1UhCZ9ViTT8V4x0)            | **EVENING MIDTERM** | 
+|        | 04.06        | 7.3             | Bayes' Theorem              		          |	[AK](https://drive.google.com/open?id=1qxX0dC3J09uvuNl3T1UhCZ9ViTT8V4x0)		        | [HW10 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19441)  |
 | 12     | 04.09        | 7.3             | Applications of Bayes' Theorem            |			        |	[Quizlet09](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=22619)                | 
 |        | 04.11        | 8.1             | Recurrences and Dynamic Programming       |			        |			            | 
 |        | 04.13        | 8.2, 8.3        | Solving Linear Recurrences                |			        |	HW11 (written)   | 
