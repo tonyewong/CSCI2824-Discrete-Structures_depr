@@ -46,7 +46,7 @@
 |        | 04.06        | 7.3             | Bayes' Theorem              		          |	[TW](https://drive.google.com/open?id=1hMB_-HJC8YtiBGjugN3Jjb0zCZEmazHo)/[AK](https://drive.google.com/open?id=1qxX0dC3J09uvuNl3T1UhCZ9ViTT8V4x0)		        | [HW10 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19441)  |
 | 12     | 04.09        | 7.3             | Applications of Bayes' Theorem            |			        |	[Quizlet09](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=22619)                | 
 |        | 04.11        | 8.1             | Recurrences and Dynamic Programming       |			        |			            | 
-|        | 04.13        | 8.2, 8.3        | Solving Linear Recurrences                |			        |	HW11 (written)   | 
+|        | 04.13        | 8.2, 8.3        | Solving Linear Recurrences                |			        |	[HW11 (written)](https://piazza.com/class_profile/get_resource/jc1c410ll63nl/jfod2iqulek57q)   | 
 | 13     | 04.16        | 8.2, 8.3        | Solving Recurrences, continued    			  |	            |                 | 
 |        | 04.18        | 9.1, 9.2        | Basic Relations and Properties            |	            |                 | 
 |        | 04.20        | 9.5, 10.1       | Equivalence Relations / Basic Graphs      |			        | HW12 (online)  |
