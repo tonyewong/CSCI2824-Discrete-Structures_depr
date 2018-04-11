@@ -45,7 +45,7 @@
 |        | 04.04        | 7.2             | Basic Probability Theory	                |	[TW](https://drive.google.com/open?id=1ECVYdfVCSlD598HJopbj-qcG7Qn8Pws3)/[AK](https://drive.google.com/open?id=1qxX0dC3J09uvuNl3T1UhCZ9ViTT8V4x0)            | **EVENING MIDTERM** | 
 |        | 04.06        | 7.3             | Bayes' Theorem              		          |	[TW](https://drive.google.com/open?id=1hMB_-HJC8YtiBGjugN3Jjb0zCZEmazHo)/[AK](https://drive.google.com/open?id=1qxX0dC3J09uvuNl3T1UhCZ9ViTT8V4x0)		        | [HW10 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19441)  |
 | 12     | 04.09        | 7.3             | Applications of Bayes' Theorem            |	[TW](https://drive.google.com/open?id=1wxCBtnBV1YQoUtKchDdmbpFJbchqLVgv)		        |	[Quizlet09](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=22619)                | 
-|        | 04.11        | 8.1             | Recurrences and Dynamic Programming       |			        |			            | 
+|        | 04.11        | 8.1             | Recurrences and Dynamic Programming       |	[TW](https://drive.google.com/open?id=1qDVVpJcq-2_WTwXwjeQNNO2l1aQj2MPH)		        |			            | 
 |        | 04.13        | 8.2, 8.3        | Solving Linear Recurrences                |			        |	[HW11 (written)](https://piazza.com/class_profile/get_resource/jc1c410ll63nl/jfod2iqulek57q)   | 
 | 13     | 04.16        | 8.2, 8.3        | Solving Recurrences, continued    			  |	            |                 | 
 |        | 04.18        | 9.1, 9.2        | Basic Relations and Properties            |	            |                 | 
