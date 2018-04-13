@@ -47,12 +47,12 @@
 | 12     | 04.09        | 7.3             | Applications of Bayes' Theorem            |	[TW](https://drive.google.com/open?id=1wxCBtnBV1YQoUtKchDdmbpFJbchqLVgv)		        |	[Quizlet09](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=22619)                | 
 |        | 04.11        | 8.1             | Recurrences and Dynamic Programming       |	[TW](https://drive.google.com/open?id=1qDVVpJcq-2_WTwXwjeQNNO2l1aQj2MPH)		        |			            | 
 |        | 04.13        | 8.2, 8.3        | Solving Linear Recurrences                |			        |	[HW11 (written)](https://piazza.com/class_profile/get_resource/jc1c410ll63nl/jfod2iqulek57q)   | 
-| 13     | 04.16        | 8.2, 8.3        | Solving Recurrences, continued    			  |	            |                 | 
+| 13     | 04.16        | 8.2, 8.3        | Solving Recurrences, continued    			  |	            | [Quizlet10](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=23083)                | 
 |        | 04.18        | 9.1, 9.2        | Basic Relations and Properties            |	            |                 | 
-|        | 04.20        | 9.5, 10.1       | Equivalence Relations / Basic Graphs      |			        | HW12 (online)  |
+|        | 04.20        | 9.5, 10.1       | Equivalence Relations / Basic Graphs      |			        | [HW12 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19442)  |
 | 14     | 04.23        | 10.2, 10.4, 10.5| Graph Theory and Eulerian Tours           |	            |                 | 
 |        | 04.25        | 10.8            | Graph Coloring and Scheduling Problems    |	            |                 | 
-|        | 04.27        | 11.1, 11.2      | Basic Trees                               |	    		    | HW13 (writen)   |
+|        | 04.27        | 11.1, 11.2      | Basic Trees                               |	    		    | HW13 (written)   |
 | 15     | 04.30        |                 | Structural Induction on Trees             |	            |                 | 
 |        | 05.02        |                 | Huffman Encoding                          |			        |	HW14 (online)  |
 |        | 05.04        |                 | **READING DAY - FINAL EXAM REVIEW**	      |			    |	          |
