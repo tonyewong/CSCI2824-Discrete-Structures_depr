@@ -49,7 +49,7 @@
 |        | 04.13        | 8.2, 8.3        | Solving Linear Recurrences                |	[TW](https://drive.google.com/open?id=1R2768Rv5rgCsbnLBCWKyQvsxFOZYSLcM)/[AK](https://drive.google.com/open?id=1Sojx78s8UVSVBZ5RDrrGZBmr01mc9Ilr)	        |	[HW11 (written)](https://piazza.com/class_profile/get_resource/jc1c410ll63nl/jfod2iqulek57q)   | 
 | 13     | 04.16        | 8.2, 8.3        | Solving Recurrences, continued    			  | (above)            | [Quizlet10](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=23083)                | 
 |        | 04.18        | 9.1, 9.2        | Basic Relations and Properties            |	 [TW](https://drive.google.com/open?id=1Xz16saakQY-_Z7Cy7E1fzqbDGLkDTHg6)/[AK](https://drive.google.com/open?id=1L6an5jEW-A31xMgcLR1lU4LadGrBI18V)           | [Quizlet11](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=23124)                | 
-|        | 04.20        | 9.5, 10.1       | Equivalence Relations / Basic Graphs      |			        | [HW12 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19442)  |
+|        | 04.20        | 9.5, 10.1       | Equivalence Relations / Basic Graphs      |		[AK](https://drive.google.com/open?id=16kUuvYMXh2876hMN7CeF9gPDkzvTzJI8)	        | [HW12 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19442)  |
 | 14     | 04.23        | 10.2, 10.4, 10.5| Graph Theory and Eulerian Tours           |	            |                 | 
 |        | 04.25        | 10.8            | Graph Coloring and Scheduling Problems    |	            |                 | 
 |        | 04.27        | 11.1, 11.2      | Basic Trees                               |	    		    | HW13 (written)   |
