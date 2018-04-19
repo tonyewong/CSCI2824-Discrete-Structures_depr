@@ -52,9 +52,9 @@
 |        | 04.20        | 9.5, 10.1       | Equivalence Relations / Basic Graphs      |		[TW](https://drive.google.com/open?id=1YxWIDa0u51-H43w3cu8Vu6UCKEdoV238)/[AK](https://drive.google.com/open?id=16kUuvYMXh2876hMN7CeF9gPDkzvTzJI8)	        | [HW12 (online)](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=19442)  |
 | 14     | 04.23        | 10.2, 10.4, 10.5| Graph Theory and Eulerian Tours           |	            |                 | 
 |        | 04.25        | 10.8            | Graph Coloring and Scheduling Problems    |	            |                 | 
-|        | 04.27        | 11.1, 11.2      | Basic Trees                               |	    		    | HW13 (written)   |
+|        | 04.27        | 11.1, 11.2      | Basic Trees                               |	    		    |                 |
 | 15     | 04.30        |                 | Structural Induction on Trees             |	            |                 | 
-|        | 05.02        |                 | Huffman Encoding                          |			        |	HW14 (online)  |
+|        | 05.02        |                 | Huffman Encoding                          |			        |	HW13 (written)  |
 |        | 05.04        |                 | **READING DAY - FINAL EXAM REVIEW**	      |			    |	          |
 | 16     | 05.05        | (Saturday)      | **FINAL EXAM SECTION 001, 4:30-7 PM**     |			    |			      | 
 |        | 05.08        | (Tuesday)       | **FINAL EXAM SECTION 002, 1:30-4 PM**     |			    |			      | 
