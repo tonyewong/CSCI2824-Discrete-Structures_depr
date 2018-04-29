@@ -53,7 +53,7 @@
 | 14     | 04.23        | 10.2, 10.4, 10.5| Graph Theory and Eulerian Tours           |	 [TW](https://drive.google.com/open?id=1XL0Z7WHlzSjjMTa9lufWEdZadJ6iWzVx)/[AK](https://drive.google.com/open?id=1KI67govacio3fssFRNZCcdXy5WZ0xWkr)         |                 | 
 |        | 04.25        | 10.8            | Graph Coloring and Scheduling Problems    |	[TW](https://drive.google.com/open?id=1F-25an625wcqEI8yXEQdm7PZ3KkMyinC)/[AK](https://drive.google.com/open?id=1Ss07Sq_LPTPv19kF3Or01zSLjCEKsimq)           | [Quizlet12](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=23280)                | 
 |        | 04.27        | 11.1, 11.2      | Basic Trees                               |	[TW](https://drive.google.com/open?id=1HmQYmU_wNkT-OPnJo02Q-8wR3TKGm_C-)/[AK](https://drive.google.com/open?id=1FLd8NDwhQwmo-yd8emg4BUSmsqPLSz9q)    		    | [Quizlet13](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=23330)                |
-| 15     | 04.30        |                 | Structural Induction on Trees             |	            |                 | 
+| 15     | 04.30        |                 | Structural Induction on Trees             |	[TW](https://drive.google.com/open?id=1m1vdlgyWbI9jLlXZH8a8-QvNO8jFvvEc)            |                 | 
 |        | 05.02        |                 | Huffman Encoding                          |			        |	[HW13 (written)](https://piazza.com/class_profile/get_resource/jc1c410ll63nl/jgcnjtrt4sb37a)  |
 |        | 05.04        |                 | **READING DAY - FINAL EXAM REVIEW**	      |			    |	          |
 | 16     | 05.05        | (Saturday)      | **FINAL EXAM SECTION 001, 4:30-7 PM**     |			    |			      | 
